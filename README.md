@@ -2,7 +2,7 @@
 
 This repository contains the code used to create the numerical examples shown in the pre-print paper: 
 
-* Gerben I Beintema, Maarten Schoukens and Roland Tóth "Meta-State-Space Learning: An Identification Approach for Stochastic Dynamical Systems"
+* Gerben I Beintema, Maarten Schoukens and Roland Tóth "Meta-State-Space Learning: An Identification Approach for Stochastic Dynamical Systems", https://arxiv.org/abs/2307.06675
 
 ## Requirements
 
